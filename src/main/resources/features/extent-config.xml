@@ -1,0 +1,11 @@
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>utf-8</encoding>
+        <protocol>https</protocol>
+        <timelineEnabled>true</timelineEnabled>
+        <reportName>Selcukes Automation Report</reportName>
+        <documentTitle>Test Report</documentTitle>
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+    </configuration>
+</extentreports>
